@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Mali:wght@200&family=Yusei+Magic&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@500&display=swap');
+
 .Mypic{
     border-radius:200px;
     margin-top:3em;
@@ -40,18 +42,20 @@ body{
 }
 
 .myname{
-    color:rgb(204, 191, 10);
+    color:rgb(209, 196, 10);
     text-shadow: 2px 2px 2px #000000;
     margin:1em;
+    
     transition: 0.4s;
-    font-weight:bolder;
+    font-weight:900;
     font-family: 'Julius Sans One', sans-serif;
     cursor: pointer;
+    
 }
 
 
 .myname:hover{
-    color: rgba(21, 172, 34, 0.897);
+    color: rgba(49, 177, 10, 0.897);
     text-shadow: 2px 2px 2px #000000;
 }
 
@@ -107,7 +111,6 @@ body{
 .mygif:hover{
     width:290px;
 }
-
 
 
 
