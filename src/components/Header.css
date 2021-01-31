@@ -39,6 +39,7 @@ body{
     flex-direction:column;
     justify-content: space-evenly;
     align-items: center;
+    
 }
 
 .myname{
@@ -70,7 +71,7 @@ body{
 }
 
 .cv{
-    box-shadow: -30px 30px 20px rgba(0,0,0,0.4);
+    box-shadow: -30px -30px 20px rgba(0,0,0,0.4);
     transition: 0.4s;
 }
 
@@ -109,6 +110,7 @@ body{
     width:300px;
     transition:0.4s;
     cursor: pointer;
+    
 }
 
 .mygif:hover{
@@ -117,10 +119,10 @@ body{
 
 
 
-.section{
-    background-color: rgb(58, 0, 112);
-    box-shadow: -20px -20px 20px  rgba(0,0,0,0.4);
-   
+.bottomdiv{
+    background-color: rgb(109, 0, 211);
+    box-shadow: -30px -30px 20px  rgba(0,0,0,0.4);
+    
 }
 
 

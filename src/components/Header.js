@@ -21,7 +21,7 @@ const Header = () =>{
             </p></span></h1>
             <img className="mygif" width=" 200px"src={Mygif}></img>
             </div>
-
+            
             <h2 className="resume">Resume:</h2>
             
             
@@ -30,6 +30,7 @@ const Header = () =>{
                <a href="https://drive.google.com/file/d/1bab4zxiq-0NNepRhhotJtqXdbhp2drNJ/view?usp=sharing"><img className="cv" src={Cv} width="800px"></img></a>
                <img src="https://www.l2lguardianspirit.com/admin/uploads/slider_small/1591046626.gif" width="300px"></img> 
             </div>
+            
             
             </div>
         </div>
