@@ -9,6 +9,8 @@
     margin-bottom:3em;
     width:300px;
     box-shadow: -30px 30px 20px rgba(0,0,0,0.4);
+    /* -webkit-box-shadow: 0 0 30px rgb(0, 0, 0);
+    box-shadow: 0 0 30px rgb(0, 0, 0); */
     transition: 0.4s;
     cursor:pointer;
 }
@@ -71,7 +73,9 @@ body{
 }
 
 .cv{
-    box-shadow: -30px -30px 20px rgba(0,0,0,0.4);
+    /* box-shadow: -30px -30px 20px rgba(0,0,0,0.4); */
+    -webkit-box-shadow: 0 0 90px rgb(0, 0, 0);
+    box-shadow: 0 0 90px rgb(0, 0, 0);
     transition: 0.4s;
 }
 
@@ -81,7 +85,8 @@ body{
 
 .resume{
     color:rgb(251, 251, 251);
-    margin:1em;
+    
+    margin-bottom:1.8em;
     text-shadow: 2px 2px 2px #000000;
 }
 
