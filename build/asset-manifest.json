@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.97dd7f60.chunk.css",
+    "main.js": "/static/js/main.3c0fde81.chunk.js",
+    "main.js.map": "/static/js/main.3c0fde81.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2b203d63.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2b203d63.js.map",
+    "static/js/2.d28dd2f9.chunk.js": "/static/js/2.d28dd2f9.chunk.js",
+    "static/js/2.d28dd2f9.chunk.js.map": "/static/js/2.d28dd2f9.chunk.js.map",
+    "static/js/3.09ac6040.chunk.js": "/static/js/3.09ac6040.chunk.js",
+    "static/js/3.09ac6040.chunk.js.map": "/static/js/3.09ac6040.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.97dd7f60.chunk.css.map": "/static/css/main.97dd7f60.chunk.css.map",
+    "static/js/2.d28dd2f9.chunk.js.LICENSE.txt": "/static/js/2.d28dd2f9.chunk.js.LICENSE.txt",
+    "static/media/Untitled design (1).368d4896.png": "/static/media/Untitled design (1).368d4896.png",
+    "static/media/cv.8fd8fb73.png": "/static/media/cv.8fd8fb73.png",
+    "static/media/source.1e714f5b.gif": "/static/media/source.1e714f5b.gif",
+    "static/media/Header.css": "/static/media/wp5952062-youtube-thumbnail-wallpapers.a7709dc8.png",
+    "static/media/yy3.4891775a.gif": "/static/media/yy3.4891775a.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b203d63.js",
+    "static/js/2.d28dd2f9.chunk.js",
+    "static/css/main.97dd7f60.chunk.css",
+    "static/js/main.3c0fde81.chunk.js"
+  ]
+}
