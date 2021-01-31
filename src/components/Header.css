@@ -28,7 +28,8 @@ body{
 .secdiv{
     display:flex;
     flex-direction:column;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
 }
 
 .imgdiv{
@@ -88,6 +89,7 @@ body{
 .giffy{
     box-shadow: -30px 30px 20px  rgba(0,0,0,0.4);
     transition: 0.4s;
+    cursor: pointer;
     
 }
 
@@ -106,9 +108,13 @@ body{
     width:290px;
 }
 
-.giffy{
-    cursor: pointer;;
-}
+
+
+
+
+
+
+
 @media only screen and (max-width:1600px){
     
     .Mypic{

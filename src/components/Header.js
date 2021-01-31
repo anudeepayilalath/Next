@@ -10,7 +10,7 @@ const Header = () =>{
     return(
         <div>
             <div className="imgdiv">
-           
+            
                 <img className="giffy" src={Giffy} width="300px" ></img>
             <div className="title">
             <img src={Mypic} className="Mypic"></img>
@@ -21,16 +21,13 @@ const Header = () =>{
             <img className="mygif" width=" 200px"src={Mygif}></img>
             </div>
 
-            <div>
-           
-            </div>
-
             <h2 className="resume">Resume:</h2>
             </div>
             
             <div className="secdiv">
                
-               <a href="https://drive.google.com/file/d/1bab4zxiq-0NNepRhhotJtqXdbhp2drNJ/view?usp=sharing"><img className="cv" src={Cv} width="800px"></img></a> 
+               <a href="https://drive.google.com/file/d/1bab4zxiq-0NNepRhhotJtqXdbhp2drNJ/view?usp=sharing"><img className="cv" src={Cv} width="800px"></img></a>
+               <img src="https://www.l2lguardianspirit.com/admin/uploads/slider_small/1591046626.gif" width="400px"></img> 
             </div>
 
         </div>
